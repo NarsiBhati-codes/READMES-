@@ -5,7 +5,7 @@ Welcome to the Project Documentation Repository! This repository contains README
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Project 1: Prisma Setup in Turborepo](#project-1-prisma-setup-in-turborepo)
+- [Chapter 1: Prisma Setup in Turborepo](#chapter-1-prisma-setup-in-turborepo)
 
 - [Contributing](#contributing)
 - [License](#license)
@@ -14,7 +14,7 @@ Welcome to the Project Documentation Repository! This repository contains README
 
 This repository serves as a central hub for various README files that document different projects and setups. Each README provides detailed instructions, steps, and configuration guidelines to help you get started with specific tools and frameworks.
 
-## Project 1: Prisma Setup in Turborepo
+## Chapter 1: Prisma Setup in Turborepo
 
 **Overview:** This guide provides detailed instructions on setting up Prisma as a package in a Turborepo monorepo structure.
 
